@@ -1,2 +1,2 @@
 # EEC_170_Labs
- Computer Architecture <!-- Fall 2020 -->
+ Computer Architecture Fall 2020
